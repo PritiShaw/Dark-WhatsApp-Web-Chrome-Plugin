@@ -1,0 +1,15 @@
+{
+    "manifest_version" : 2,
+    "name" : "WhatsApp Web Dark Theme",
+    "version" : "0.1",
+    "content_scripts" : [
+        {
+            "matches" : ["https://web.whatsapp.com/"],
+            "run_at" : "document_end",
+            "js" : ["script/script.js"]
+        }
+    ],
+    "icons": {
+        "50": "icon50.png" 
+    }
+}
