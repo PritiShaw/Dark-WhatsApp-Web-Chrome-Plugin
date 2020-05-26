@@ -2,7 +2,7 @@
 
 ## Installation Steps:
 
-1. Clone the repository https://github.com/PritiShaw/Dark-WhatsApp-Web.git and Unzip it.
+1. Download the repository https://github.com/PritiShaw/Dark-WhatsApp-Web.git and Unzip it.
 2. Go to https://chrome://extensions/.
 3. At the top right, turn on **Developer mode**.
 4. Click *Load unpacked*.
