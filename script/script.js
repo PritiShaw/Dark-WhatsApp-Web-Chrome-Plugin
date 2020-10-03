@@ -1,1 +1,1 @@
-document.body.className += ' ' + 'dark';
+document.body.className += ' dark';
